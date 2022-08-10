@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.bloque{
+    font-weight: bolder;
+    font-family: sans-serif;
+    color: #FFF;
+    background-color: brown;
+    margin: 5px;
+    padding: 5px;
+    width: fit-content;
+    display:inline-block;
+}
+
+#bloque-b{
+    background-color: olivedrab;
+    width: 90px;
+}
+
+#bloque-c{
+    background-color: blueviolet;
+    width: 50px;
+}
+
+#bloque-d{
+    background-color: darkgoldenrod;
+    width: 27px;
+}

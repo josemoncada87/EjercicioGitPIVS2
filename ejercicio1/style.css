@@ -1,0 +1,25 @@
+ol {
+    font-family: sans-serif;
+}
+
+#titulo-general{
+    color: blue;
+}
+
+.parrafo-contenido{
+    font-style: italic;
+    color: cadetblue;
+    font-family: fantasy;    
+}
+
+#contenedor{
+   padding: 20px;    
+   margin: 20px;
+   background-color: aqua;
+}
+
+#parrafo{
+    background-color: black;
+    color: aliceblue;
+    padding: 50px;
+}
